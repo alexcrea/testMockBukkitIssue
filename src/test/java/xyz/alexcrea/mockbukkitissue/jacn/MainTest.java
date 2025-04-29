@@ -1,4 +1,4 @@
-package jacn;
+package xyz.alexcrea.mockbukkitissue.jacn;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

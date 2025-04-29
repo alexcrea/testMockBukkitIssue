@@ -1,4 +1,4 @@
-package xyz.alexcrea.jacn;
+package xyz.alexcrea.mockbukkitissue;
 
 public class Main {
     public static void main(String[] args) {

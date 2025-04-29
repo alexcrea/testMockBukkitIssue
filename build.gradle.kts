@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "xyz.alexcrea.jacn"
+group = "xyz.alexcrea.mockbukkitissue"
 version = "1.0-SNAPSHOT"
 
 repositories {
